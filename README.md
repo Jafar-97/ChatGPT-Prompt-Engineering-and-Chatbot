@@ -16,7 +16,7 @@ This is a Streamlit-based web application that provides a chatbot interface for 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/restaurant-chatbot.git
+    https://github.com/Jafar-97/Chatbot.git
     cd restaurant-chatbot
     ```
 
