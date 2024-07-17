@@ -11,6 +11,11 @@ This is a Streamlit-based web application that provides a chatbot interface for 
 - **Update Contact Information:** Set or update the restaurant's contact details, including phone number, email, and website.
 - **Update Daily Specials:** Set or update the special dishes for each day of the week.
 
+## Screenshots
+
+### Home Page
+![Home Page](1.png)
+
 ## Installation
 
 1. **Clone the repository:**
