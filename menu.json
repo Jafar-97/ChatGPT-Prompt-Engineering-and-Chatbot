@@ -1,0 +1,43 @@
+{
+  "menu": {
+      "Pasta": 12.99,
+      "Burger": 9.99,
+      "Salad": 7.99,
+      "Pizza": 14.99,
+      "Sushi": 18.99,
+      "Steak": 24.99,
+      "Tacos": 8.99,
+      "Ice Cream": 5.99,
+      "Coffee": 2.99,
+      "Tea": 1.99,
+      "Smoothie": 4.99,
+      "Sandwich": 6.99,
+      "Soup": 4.99,
+      "Fries": 3.99,
+      "Nachos": 7.99
+  },
+  "timings": {
+      "Monday": "9 AM - 9 PM",
+      "Tuesday": "9 AM - 9 PM",
+      "Wednesday": "9 AM - 9 PM",
+      "Thursday": "9 AM - 9 PM",
+      "Friday": "9 AM - 10 PM",
+      "Saturday": "10 AM - 11 PM",
+      "Sunday": "10 AM - 11 PM"
+  },
+  "location": "123 Food Street, Flavor Town, Yummy State, 56789",
+  "contact": {
+      "phone": "+1 234 567 890",
+      "email": "contact@flavortownrestaurant.com",
+      "website": "www.flavortownrestaurant.com"
+  },
+  "specials": {
+      "Monday": "20% off on all Pastas",
+      "Tuesday": "Buy 1 Get 1 Free on Burgers",
+      "Wednesday": "Free Dessert with any Pizza",
+      "Thursday": "Half Price on all Salads",
+      "Friday": "Free Drink with any Steak",
+      "Saturday": "Kids Eat Free",
+      "Sunday": "Chef's Special: Sushi Platter at $15.99"
+  }
+}
