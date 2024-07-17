@@ -1,2 +1,2 @@
-# ChatGPT-Prompt-Engineering-and-Chatbot
+# Chatbot
 ChatGPT Prompt Engineering and Chatbot
